@@ -22,6 +22,10 @@ Description: This Template is created for web template
 img {
   max-width: 100%; }
 
+#nav-img-fix{
+  margin-top: -19px;
+}
+
 a {
   text-decoration: none;
   outline: none;
